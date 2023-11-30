@@ -1,0 +1,170 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/_SP Labour Confidential/Generic organiser sign up sheet template/1. Artwork/Labour_Template_sign-up-organiser-sheets Folder/Document fonts/AdobeFnt23.lst
+FileLength:3063
+FileModTime:722435491
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/_SP Labour Confidential/Generic organiser sign up sheet template/1. Artwork/Labour_Template_sign-up-organiser-sheets Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:722163626
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Sohne-Buch
+FamilyName:Söhne
+StyleName:Buch
+MenuName:Söhne
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Söhne
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/_SP Labour Confidential/Generic organiser sign up sheet template/1. Artwork/Labour_Template_sign-up-organiser-sheets Folder/Document fonts/Söhne-Buch.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:210840
+FileModTime:668478868
+NameArray:0,Mac,4,Söhne
+NameArray:0,Win,1,Söhne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Sohne-Halbfett
+FamilyName:Söhne
+StyleName:Halbfett
+MenuName:Söhne Halbfett
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Söhne Halbfett
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/_SP Labour Confidential/Generic organiser sign up sheet template/1. Artwork/Labour_Template_sign-up-organiser-sheets Folder/Document fonts/Söhne-Halbfett.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:230012
+FileModTime:668478868
+NameArray:0,Mac,4,Söhne Halbfett
+NameArray:0,Win,1,Söhne Halbfett
+NameArray:0,Win,16,Söhne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SohneBreit-Fett
+FamilyName:Söhne Breit
+StyleName:Fett
+MenuName:Söhne Breit Fett
+StyleBits:0
+WeightClass:800
+WidthClass:7
+AngleClass:0
+FullName:Söhne Breit Fett
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/_SP Labour Confidential/Generic organiser sign up sheet template/1. Artwork/Labour_Template_sign-up-organiser-sheets Folder/Document fonts/SöhneBreit-Fett.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:215548
+FileModTime:629023210
+NameArray:0,Mac,4,Söhne Breit Fett
+NameArray:0,Win,1,Söhne Breit Fett
+NameArray:0,Win,16,Söhne Breit
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Standard-Bold
+FamilyName:Standard
+StyleName:Bold
+MenuName:Standard
+StyleBits:2
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Standard Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/_SP Labour Confidential/Generic organiser sign up sheet template/1. Artwork/Labour_Template_sign-up-organiser-sheets Folder/Document fonts/standard-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:28832
+FileModTime:722887976
+NameArray:0,Mac,4,Standard Bold
+NameArray:0,Win,1,Standard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Standard-Book
+FamilyName:Standard
+StyleName:Book
+MenuName:Standard
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Standard
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/_SP Labour Confidential/Generic organiser sign up sheet template/1. Artwork/Labour_Template_sign-up-organiser-sheets Folder/Document fonts/standard-book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:27508
+FileModTime:722887970
+NameArray:0,Mac,4,Standard
+NameArray:0,Win,1,Standard
+%EndFont
+
